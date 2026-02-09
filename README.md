@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 
-Hi there! I'm **Pedram (Logan) Darestani**, a passionate Data Scientist and Machine Learning Engineer. Welcome to my GitHub profile!
+Hi there! I'm **Pedram Darestani**, also known as **Logan**, a passionate Data Scientist and Machine Learning Engineer. Welcome to my GitHub profile!
 
 ## 🌟 About Me
 - Master's in Data Science from Memorial University of Newfoundland
@@ -10,4 +10,4 @@ Hi there! I'm **Pedram (Logan) Darestani**, a passionate Data Scientist and Mach
 - Skilled in Python, R, Rust, Javascript, Typescript, and SQL
 
 ## 📄 Portfolio
-- 🌐 [Visit My Portfolio](https://github.com/Loganpd/Portfolio)
+- 🌐 Visit My Portfolio [Here](https://github.com/Loganpd/Portfolio)
