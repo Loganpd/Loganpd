@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Loganpd/Loganpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there! I'm **Pedram (Logan) Darestani**, a passionate Data Scientist and Machine Learning Engineer. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- Master's in Data Science from Memorial University of Newfoundland
+- Master's in Computer Engineering - Artificial Intelligence and Robotics from Shahid Beheshti University
+- Experienced in Data Science, AI and Machine Learning, and Cloud Development
+- Skilled in Python, R, Rust, Javascript, Typescript, and SQL
+
+## 📄 Portfolio
+- 🌐 [Visit My Portfolio](https://github.com/Loganpd/Portfolio)
